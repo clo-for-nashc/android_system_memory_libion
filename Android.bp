@@ -11,6 +11,7 @@ cc_defaults {
     apex_available: [
         "//apex_available:platform",
         "com.android.media.swcodec",
+        "com.android.npumanager",
         "test_com.android.media.swcodec",
     ],
 }
